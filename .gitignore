@@ -4,7 +4,8 @@
 .terraform.lock.hcl
 # .tfstate files
 *.tfstate
-*.tfstate.*
+*.tfstate.* 
+my_repo
 
 # Crash log files
 crash.log
